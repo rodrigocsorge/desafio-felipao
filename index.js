@@ -1,5 +1,5 @@
-var nome = "RR"
-var xp = 11000
+let nome = "Rodrigo"
+let xp = 11000
     if (xp<=1000){
         xp = "Ferro"
     }else if(xp>1000 && xp<=2000){
@@ -17,4 +17,4 @@ var xp = 11000
     }else{
         xp = "Radiante"
     }
-    console.log ("O herói de nome "+nome+" está no nível de "+xp);
+    console.log ("O herói de nome " + nome + " está no nível de " + xp);
